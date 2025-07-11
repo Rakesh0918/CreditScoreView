@@ -88,6 +88,8 @@ class ViewController: UIViewController {
 
 ---
 
+![CreditScoreView Demo](./demo.gif)
+
 ## ✅ Example Segments
 
 ```swift
